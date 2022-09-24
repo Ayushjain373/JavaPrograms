@@ -14,7 +14,7 @@ public class Test{
 	
 public static void main(String[] args) {
 	
-	int f=500;
+	int f=500;//Instance variable
 	System.out.println(f);
 	Test t1=new Test();
 	t1.display();
